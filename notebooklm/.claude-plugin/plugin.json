@@ -1,0 +1,9 @@
+{
+    "name": "notebooklm",
+    "version": "1.0.0",
+    "description": "Import NotebookLM notebooks into Obsidian vault as linked knowledge graphs with citation resolution.",
+    "author": {
+        "name": "Uriel",
+        "email": ""
+    }
+}

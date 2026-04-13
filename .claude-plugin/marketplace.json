@@ -1,0 +1,25 @@
+{
+    "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+    "name": "learning-with-ai",
+    "description": "AI-powered learning and knowledge management plugins",
+    "owner": {
+        "name": "Uriel",
+        "email": ""
+    },
+    "plugins": [
+        {
+            "name": "notebooklm",
+            "description": "Import NotebookLM notebooks into Obsidian vault as linked knowledge graphs with citation resolution, YouTube channel bulk-loading, and expert-informed interviews.",
+            "version": "1.0.0",
+            "source": "./notebooklm",
+            "category": "productivity"
+        },
+        {
+            "name": "learn",
+            "description": "Interactive learning companion using Bloom's and SOLO taxonomies. Topic learning, breadth-first overviews, codebase exploration, and active recall quizzes with multi-session progress tracking.",
+            "version": "1.0.0",
+            "source": "./learn",
+            "category": "productivity"
+        }
+    ]
+}

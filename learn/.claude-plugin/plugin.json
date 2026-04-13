@@ -1,0 +1,9 @@
+{
+    "name": "learn",
+    "version": "1.0.0",
+    "description": "Interactive learning companion using Bloom's and SOLO taxonomies with multi-session progress tracking.",
+    "author": {
+        "name": "Uriel",
+        "email": ""
+    }
+}
