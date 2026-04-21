@@ -1,0 +1,9 @@
+{
+    "name": "learn-source",
+    "version": "0.1.0",
+    "description": "Adaptive learning from a local file. Ingests into NotebookLM, runs /learn with cited source-of-truth verification, and persists progress per source in your Obsidian vault.",
+    "author": {
+        "name": "Uriel",
+        "email": ""
+    }
+}
