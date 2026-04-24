@@ -20,13 +20,6 @@
             "version": "1.0.0",
             "source": "./learn",
             "category": "productivity"
-        },
-        {
-            "name": "crawl-thesis",
-            "description": "Calibrated web-crawling thesis (9 benchmark rounds) — skill + spawnable agent + /crawl command. Free/local clears up to Cloudflare-managed; honest Tier-C recommendation for DataDome / Kasada / Akamai / app-layer. Bundles yfe404's web-scraper skill as the phased-reconnaissance foundation.",
-            "version": "0.1.0",
-            "source": "./crawl-thesis",
-            "category": "productivity"
         }
     ]
 }
