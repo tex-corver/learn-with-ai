@@ -1,0 +1,21 @@
+{
+  "name": "learn-with-ai",
+  "version": "0.1.0",
+  "description": "Claude Code plugin — calibrated web-crawling thesis (9 benchmark rounds) packaged as a skill + agent + /crawl command. Free/local clears up to Cloudflare-managed; honest Tier-C recommendation for DataDome / Kasada / Akamai / app-layer.",
+  "author": {
+    "name": "tex-corver",
+    "url": "https://github.com/tex-corver"
+  },
+  "homepage": "https://github.com/tex-corver/learn-with-ai",
+  "repository": "https://github.com/tex-corver/learn-with-ai",
+  "license": "MIT",
+  "keywords": [
+    "web-scraping",
+    "crawling",
+    "claude-code",
+    "anti-bot",
+    "cloudflare",
+    "scrapling",
+    "scrapy"
+  ]
+}
