@@ -20,6 +20,13 @@
             "version": "1.0.0",
             "source": "./learn",
             "category": "productivity"
+        },
+        {
+            "name": "learn-source",
+            "description": "Adaptive learning from a local file (PDF, markdown, or text). Ingests into NotebookLM and runs /learn with cited source-of-truth verification. Progress persists per source in your Obsidian vault. Composes the learn and notebooklm plugins.",
+            "version": "0.1.0",
+            "source": "./learn-source",
+            "category": "productivity"
         }
     ]
 }
